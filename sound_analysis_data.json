@@ -1,0 +1,2052 @@
+[
+  {
+    "filename": "unknown_10_filing.xml",
+    "tax_year": "2013",
+    "schema_version": "2013v3.0",
+    "executives": [
+      {
+        "name": "PAULA JANSON",
+        "title": "PRESIDENT",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "STAN MOFFETT",
+        "title": "VICE PRESIDENT",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "GEORGE STEWART",
+        "title": "TREASURER",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "RHEA LUTTON",
+        "title": "SECRETARY",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "SUSAN ABBOTT",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "MYLENE BARIZO",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "GLORIA BERNARD",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "MARSHA BLASINGAME",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "TRICIA BOERGER",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "DEBORAH BROCKWAY",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "DIANE CIMINO-KELLY",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "JUAN COTTO",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "DIANE GORDON",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "VICKI JACKSON",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "MARCIA WHARTON",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "MICHAEL SNYDER",
+        "title": "CHIEF MEDICAL OFFICER",
+        "compensation": 250749.0,
+        "other_compensation": 33014.0,
+        "total_compensation": 283763.0
+      },
+      {
+        "name": "DAVID STONE",
+        "title": "CHIEF EXECUTIVE OFFICER",
+        "compensation": 240818.0,
+        "other_compensation": 32669.0,
+        "total_compensation": 273487.0
+      },
+      {
+        "name": "PATRICIA BLANCHARD",
+        "title": "CHIEF CLINICAL OFFICER",
+        "compensation": 160059.0,
+        "other_compensation": 32178.0,
+        "total_compensation": 192237.0
+      },
+      {
+        "name": "PAUL EISENHAUER",
+        "title": "CHIEF FINANCIAL OFFICER",
+        "compensation": 152340.0,
+        "other_compensation": 39014.0,
+        "total_compensation": 191354.0
+      },
+      {
+        "name": "KAPIL CHOPRA",
+        "title": "PSYCHIATRIST",
+        "compensation": 187801.0,
+        "other_compensation": 21840.0,
+        "total_compensation": 209641.0
+      },
+      {
+        "name": "NICHOLAS WEISS",
+        "title": "PSYCHIATRIST",
+        "compensation": 185888.0,
+        "other_compensation": 27217.0,
+        "total_compensation": 213105.0
+      },
+      {
+        "name": "MARY BARTELS",
+        "title": "PSYCHIATRIST",
+        "compensation": 170540.0,
+        "other_compensation": 28054.0,
+        "total_compensation": 198594.0
+      },
+      {
+        "name": "PAUL ZARKOWSKI",
+        "title": "PSYCHIATRIST",
+        "compensation": 172951.0,
+        "other_compensation": 32592.0,
+        "total_compensation": 205543.0
+      },
+      {
+        "name": "HARLAN WHITE",
+        "title": "PSYCHIATRIST",
+        "compensation": 193634.0,
+        "other_compensation": 13766.0,
+        "total_compensation": 207400.0
+      }
+    ],
+    "financials": {
+      "total_revenue": 49116919.0,
+      "total_expenses": 47858178.0,
+      "program_service_expenses": 40347736.0,
+      "fundraising_expenses": 402096.0,
+      "total_assets": 40809612.0,
+      "total_liabilities": 18317333.0,
+      "program_efficiency": 0.8430687854435244
+    }
+  },
+  {
+    "filename": "unknown_9_filing.xml",
+    "tax_year": "2014",
+    "schema_version": "2014v5.0",
+    "executives": [
+      {
+        "name": "PAULA JANSON",
+        "title": "PRESIDENT",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "STAN MOFFETT",
+        "title": "VICE PRESIDENT",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "GEORGE STEWART",
+        "title": "TREASURER",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "RHEA LUTTON",
+        "title": "SECRETARY",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "DIANE CIMINO-KELLY",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "GLORIA BERNARD",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "MARSHA BLASINGAME",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "TRICIA BOERGER",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "DEBORAH BROCKWAY",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "JUAN COTTO",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "DIANE GORDON",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "ANNE REDMAN",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "MARCIA WHARTON",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "SHIRLEY WILSON",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "SUSAN ABBOTT",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "MYLENE BARIZO",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "DAVID STONE",
+        "title": "CHIEF EXECUTIVE OFFICER",
+        "compensation": 275219.0,
+        "other_compensation": 17100.0,
+        "total_compensation": 292319.0
+      },
+      {
+        "name": "PAUL EISENHAUER",
+        "title": "CHIEF FINANCIAL OFFICER",
+        "compensation": 185739.0,
+        "other_compensation": 21742.0,
+        "total_compensation": 207481.0
+      },
+      {
+        "name": "PATRICIA BLANCHARD",
+        "title": "CHIEF CLINICAL OFFICER",
+        "compensation": 195792.0,
+        "other_compensation": 14418.0,
+        "total_compensation": 210210.0
+      },
+      {
+        "name": "MICHAEL SNYDER",
+        "title": "CHIEF MEDICAL OFFICER",
+        "compensation": 276135.0,
+        "other_compensation": 27601.0,
+        "total_compensation": 303736.0
+      },
+      {
+        "name": "MARY BARTELS",
+        "title": "PSYCHIATRIST",
+        "compensation": 216494.0,
+        "other_compensation": 15319.0,
+        "total_compensation": 231813.0
+      },
+      {
+        "name": "KAPIL CHOPRA",
+        "title": "PSYCHIATRIST",
+        "compensation": 214337.0,
+        "other_compensation": 22657.0,
+        "total_compensation": 236994.0
+      },
+      {
+        "name": "PAUL ZARKOWSKI",
+        "title": "PSYCHIATRIST",
+        "compensation": 210085.0,
+        "other_compensation": 15023.0,
+        "total_compensation": 225108.0
+      },
+      {
+        "name": "HARLAN WHITE",
+        "title": "PSYCHIATRIST",
+        "compensation": 196990.0,
+        "other_compensation": 14592.0,
+        "total_compensation": 211582.0
+      },
+      {
+        "name": "MICHAEL RAMSEY",
+        "title": "PSYCHIATRIST",
+        "compensation": 184395.0,
+        "other_compensation": 12057.0,
+        "total_compensation": 196452.0
+      }
+    ],
+    "financials": {
+      "total_revenue": 55547924.0,
+      "total_expenses": 52788756.0,
+      "program_service_expenses": 43740603.0,
+      "fundraising_expenses": 365359.0,
+      "total_assets": 47866351.0,
+      "total_liabilities": 22853202.0,
+      "program_efficiency": 0.8285969648536518
+    }
+  },
+  {
+    "filename": "unknown_8_filing.xml",
+    "tax_year": "2015",
+    "schema_version": "2015v2.1",
+    "executives": [
+      {
+        "name": "GLORIA BERNARD",
+        "title": "PRESIDENT",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "STAN MOFFETT",
+        "title": "VICE PRESIDENT",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "GEORGE STEWART",
+        "title": "TREASURER",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "RHEA LUTTON",
+        "title": "SECRETARY",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "PAULA JANSON",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "MARSHA BLASINGAME",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "TRICIA BOERGER",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "DIANE CIMINO-KELLEY",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "SHIRLEY WILSON",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "JUAN COTTO",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "DEBORAH BROCKWAY",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "ANNE REDMAN",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "LOIS BLOOM",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "MARCIA WHARTON",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "DIANE GORDON",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "DAVID STONE",
+        "title": "CHIEF EXECUTIVE OFFICER",
+        "compensation": 258442.0,
+        "other_compensation": 15548.0,
+        "total_compensation": 273990.0
+      },
+      {
+        "name": "PAUL EISENHAUER",
+        "title": "CHIEF FINANCIAL OFFICER",
+        "compensation": 193229.0,
+        "other_compensation": 21119.0,
+        "total_compensation": 214348.0
+      },
+      {
+        "name": "PATRICIA BLANCHARD",
+        "title": "CHIEF CLINICAL OFFICER",
+        "compensation": 203810.0,
+        "other_compensation": 13966.0,
+        "total_compensation": 217776.0
+      },
+      {
+        "name": "MICHAEL SNYDER",
+        "title": "CHIEF MEDICAL OFFICER",
+        "compensation": 300746.0,
+        "other_compensation": 15833.0,
+        "total_compensation": 316579.0
+      },
+      {
+        "name": "TRESA THOMAS MASSINGALE",
+        "title": "CHIEF DEVELOPMENT OFFICER",
+        "compensation": 86339.0,
+        "other_compensation": 7903.0,
+        "total_compensation": 94242.0
+      },
+      {
+        "name": "MARY BARTELS",
+        "title": "PSYCHIATRIST",
+        "compensation": 248003.0,
+        "other_compensation": 15642.0,
+        "total_compensation": 263645.0
+      },
+      {
+        "name": "MICHAEL RAMSEY",
+        "title": "PSYCHIATRIST",
+        "compensation": 240971.0,
+        "other_compensation": 15636.0,
+        "total_compensation": 256607.0
+      },
+      {
+        "name": "PAUL ZARKOWSKI",
+        "title": "PSYCHIATRIST",
+        "compensation": 219266.0,
+        "other_compensation": 14526.0,
+        "total_compensation": 233792.0
+      },
+      {
+        "name": "KAPIL CHOPRA",
+        "title": "PSYCHIATRIST",
+        "compensation": 197909.0,
+        "other_compensation": 17186.0,
+        "total_compensation": 215095.0
+      },
+      {
+        "name": "ROWIN CANTRELL",
+        "title": "PSYCHIATRIST",
+        "compensation": 182943.0,
+        "other_compensation": 5467.0,
+        "total_compensation": 188410.0
+      }
+    ],
+    "financials": {
+      "total_revenue": 54996103.0,
+      "total_expenses": 52153338.0,
+      "program_service_expenses": 43074397.0,
+      "fundraising_expenses": 416284.0,
+      "total_assets": 50500485.0,
+      "total_liabilities": 23242972.0,
+      "program_efficiency": 0.8259183141834565
+    }
+  },
+  {
+    "filename": "unknown_7_filing.xml",
+    "tax_year": "2016",
+    "schema_version": "2016v3.0",
+    "executives": [
+      {
+        "name": "GLORIA BERNARD",
+        "title": "PRESIDENT",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "STAN MOFFETT",
+        "title": "VICE PRESIDENT",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "GEORGE STEWART",
+        "title": "TREASURER",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "RHEA LUTTON",
+        "title": "SECRETARY",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "PAULA JANSON",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "MARSHA BLASINGAME",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "TRICIA BOERGER",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "DIANE CIMINO-KELLEY",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "SHIRLEY WILSON",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "JUAN COTTO",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "DEBORAH BROCKWAY",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "ANNE REDMAN",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "LOIS BLOOM",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "DAVID STONE",
+        "title": "CHIEF EXECUTIVE OFFICER (THRU 06/16)",
+        "compensation": 239191.0,
+        "other_compensation": 7912.0,
+        "total_compensation": 247103.0
+      },
+      {
+        "name": "PATRICK EVANS",
+        "title": "CHIEF EXECUTIVE OFFICER",
+        "compensation": 147488.0,
+        "other_compensation": 5643.0,
+        "total_compensation": 153131.0
+      },
+      {
+        "name": "PAUL EISENHAUER",
+        "title": "CHIEF FINANCIAL OFFICER",
+        "compensation": 207472.0,
+        "other_compensation": 9413.0,
+        "total_compensation": 216885.0
+      },
+      {
+        "name": "PATRICIA BLANCHARD",
+        "title": "CHIEF CLINICAL OFFICER",
+        "compensation": 242783.0,
+        "other_compensation": 13180.0,
+        "total_compensation": 255963.0
+      },
+      {
+        "name": "MICHAEL SNYDER",
+        "title": "CHIEF MEDICAL OFFICER",
+        "compensation": 240309.0,
+        "other_compensation": 9174.0,
+        "total_compensation": 249483.0
+      },
+      {
+        "name": "MARY BARTELS",
+        "title": "CHEIF MEDICAL OFFICER",
+        "compensation": 274855.0,
+        "other_compensation": 13486.0,
+        "total_compensation": 288341.0
+      },
+      {
+        "name": "TRESA THOMAS MASSIONGALE",
+        "title": "CHIEF DEVELOPMENT OFFICER",
+        "compensation": 128932.0,
+        "other_compensation": 11057.0,
+        "total_compensation": 139989.0
+      },
+      {
+        "name": "KATRINA L EGNER",
+        "title": "VP & CHIEF PROGRAMS OFFICER",
+        "compensation": 112581.0,
+        "other_compensation": 15487.0,
+        "total_compensation": 128068.0
+      },
+      {
+        "name": "KAREN A AINLEY",
+        "title": "VP & CHIEF PEOPLE OFFICER",
+        "compensation": 112286.0,
+        "other_compensation": 11806.0,
+        "total_compensation": 124092.0
+      },
+      {
+        "name": "MICHAEL RAMSEY",
+        "title": "PSYCHIATRIST",
+        "compensation": 245761.0,
+        "other_compensation": 13279.0,
+        "total_compensation": 259040.0
+      },
+      {
+        "name": "PAUL ZARKOWSKI",
+        "title": "PSYCHIATRIST",
+        "compensation": 229447.0,
+        "other_compensation": 12749.0,
+        "total_compensation": 242196.0
+      },
+      {
+        "name": "ROWIN CANTRELL",
+        "title": "PSYCHIATRIST",
+        "compensation": 191717.0,
+        "other_compensation": 5718.0,
+        "total_compensation": 197435.0
+      },
+      {
+        "name": "BETH SANDMAN",
+        "title": "PSYCHIATRIST",
+        "compensation": 190629.0,
+        "other_compensation": 6481.0,
+        "total_compensation": 197110.0
+      },
+      {
+        "name": "BRANDON MCKAY",
+        "title": "SENIOR B.I. ARCHITECT",
+        "compensation": 152702.0,
+        "other_compensation": 10497.0,
+        "total_compensation": 163199.0
+      }
+    ],
+    "financials": {
+      "total_revenue": 58415941.0,
+      "total_expenses": 54437641.0,
+      "program_service_expenses": 44605168.0,
+      "fundraising_expenses": 551770.0,
+      "total_assets": 54990284.0,
+      "total_liabilities": 23245607.0,
+      "program_efficiency": 0.8193809867697978
+    }
+  },
+  {
+    "filename": "unknown_6_filing.xml",
+    "tax_year": "2018",
+    "schema_version": "2018v3.1",
+    "executives": [
+      {
+        "name": "STAN MOFFETT",
+        "title": "CHAIR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "ANGIE GOLDS",
+        "title": "VICE CHAIR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "GEORGE STEWART",
+        "title": "TREASURER",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "PAULA JANSON",
+        "title": "SECRETARY",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "TRICIA BOERGER",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "JUAN COTTO",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "ANNE REDMAN",
+        "title": "DIRECTOR (THROUGH APRIL)",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "JOHN SANTA LUCIA",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "SHIRLEY WILSON",
+        "title": "DIRECTOR (THROUGH APRIL)",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "TOM JONNES",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "TONY PAUL",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "KIMBRA WELLOCK",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "ROBERT STADLER",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "PATRICK EVANS",
+        "title": "PRESIDENT & CEO",
+        "compensation": 300034.0,
+        "other_compensation": 15450.0,
+        "total_compensation": 315484.0
+      },
+      {
+        "name": "PAUL EISENHAUER",
+        "title": "EXECUTIVE VICE PRESIDENT & CFO",
+        "compensation": 221903.0,
+        "other_compensation": 13699.0,
+        "total_compensation": 235602.0
+      },
+      {
+        "name": "KATRINA EGNER",
+        "title": "VP & CHIEF PROGRAMS OFFICER",
+        "compensation": 149457.0,
+        "other_compensation": 17675.0,
+        "total_compensation": 167132.0
+      },
+      {
+        "name": "MARY BARTELS",
+        "title": "CHIEF MEDICAL OFFICER",
+        "compensation": 319327.0,
+        "other_compensation": 15450.0,
+        "total_compensation": 334777.0
+      },
+      {
+        "name": "JOSHUA NELSON",
+        "title": "CHIEF TECHNOLOGY OFFICER",
+        "compensation": 167349.0,
+        "other_compensation": 12211.0,
+        "total_compensation": 179560.0
+      },
+      {
+        "name": "MICHAEL RAMSEY",
+        "title": "PSYCHIATRIST",
+        "compensation": 251073.0,
+        "other_compensation": 14708.0,
+        "total_compensation": 265781.0
+      },
+      {
+        "name": "PAUL ZARKOWSKI",
+        "title": "PSYCHIATRIST",
+        "compensation": 252307.0,
+        "other_compensation": 20700.0,
+        "total_compensation": 273007.0
+      },
+      {
+        "name": "ELIZABETH RICCIARDI",
+        "title": "PSYCHIATRIST",
+        "compensation": 237317.0,
+        "other_compensation": 13706.0,
+        "total_compensation": 251023.0
+      },
+      {
+        "name": "GENE GOMEZ",
+        "title": "PSYCHIATRIST",
+        "compensation": 156830.0,
+        "other_compensation": 11011.0,
+        "total_compensation": 167841.0
+      },
+      {
+        "name": "ASHLEY MCGINNIS",
+        "title": "NURSE PRACTITIONER",
+        "compensation": 151865.0,
+        "other_compensation": 11749.0,
+        "total_compensation": 163614.0
+      }
+    ],
+    "financials": {
+      "total_revenue": 57658860.0,
+      "total_expenses": 57084096.0,
+      "program_service_expenses": 45891767.0,
+      "fundraising_expenses": 0.0,
+      "total_assets": 55285625.0,
+      "total_liabilities": 21150343.0,
+      "program_efficiency": 0.8039326224943634
+    }
+  },
+  {
+    "filename": "unknown_5_filing.xml",
+    "tax_year": "2019",
+    "schema_version": "2019v5.1",
+    "executives": [
+      {
+        "name": "ROBERT STADLER",
+        "title": "CHAIR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "ANGIE GOLDS",
+        "title": "VICE CHAIR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "GEORGE STEWART",
+        "title": "TREASURER",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "TOM JONNES",
+        "title": "SECRETARY",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "TRICIA BOERGER",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "JUAN COTTO",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "JOHN SANTA LUCIA",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "ROBERT NIELSEN",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "TONY PAUL",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "KIMBRA WELLOCK",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "PATRICK EVANS",
+        "title": "PRESIDENT & CEO",
+        "compensation": 297402.0,
+        "other_compensation": 16113.0,
+        "total_compensation": 313515.0
+      },
+      {
+        "name": "PAUL EISENHAUER",
+        "title": "EXECUTIVE VICE PRESIDENT & CFO",
+        "compensation": 245163.0,
+        "other_compensation": 15031.0,
+        "total_compensation": 260194.0
+      },
+      {
+        "name": "KATRINA EGNER",
+        "title": "VP & CHIEF PROGRAMS OFFICER",
+        "compensation": 164066.0,
+        "other_compensation": 16089.0,
+        "total_compensation": 180155.0
+      },
+      {
+        "name": "MARY BARTELS",
+        "title": "CHIEF MEDICAL OFFICER",
+        "compensation": 333651.0,
+        "other_compensation": 16081.0,
+        "total_compensation": 349732.0
+      },
+      {
+        "name": "JOSHUA NELSON",
+        "title": "CHIEF TECHNOLOGY OFFICER",
+        "compensation": 172674.0,
+        "other_compensation": 11271.0,
+        "total_compensation": 183945.0
+      },
+      {
+        "name": "SUSAN WINSTON",
+        "title": "CHIEF QUALITY & CLINICAL EXCELLENCE OFFICER",
+        "compensation": 153301.0,
+        "other_compensation": 11783.0,
+        "total_compensation": 165084.0
+      },
+      {
+        "name": "ELIZABETH RICCIARDI",
+        "title": "PSYCHIATRIST",
+        "compensation": 268289.0,
+        "other_compensation": 14139.0,
+        "total_compensation": 282428.0
+      },
+      {
+        "name": "PAUL ZARKOWSKI",
+        "title": "PSYCHIATRIST",
+        "compensation": 262236.0,
+        "other_compensation": 19026.0,
+        "total_compensation": 281262.0
+      },
+      {
+        "name": "GENE GOMEZ",
+        "title": "PSYCHIATRIST",
+        "compensation": 181048.0,
+        "other_compensation": 11006.0,
+        "total_compensation": 192054.0
+      },
+      {
+        "name": "MARIANNE KAMPF",
+        "title": "PSYCHIATRIST",
+        "compensation": 161232.0,
+        "other_compensation": 15998.0,
+        "total_compensation": 177230.0
+      },
+      {
+        "name": "ARICA KEYSER",
+        "title": "ARNP",
+        "compensation": 157369.0,
+        "other_compensation": 15889.0,
+        "total_compensation": 173258.0
+      }
+    ],
+    "financials": {
+      "total_revenue": 99592844.0,
+      "total_expenses": 64333399.0,
+      "program_service_expenses": 51489269.0,
+      "fundraising_expenses": 0.0,
+      "total_assets": 103846015.0,
+      "total_liabilities": 35300974.0,
+      "program_efficiency": 0.8003505146681276
+    }
+  },
+  {
+    "filename": "unknown_4_filing.xml",
+    "tax_year": "2020",
+    "schema_version": "2020v4.1",
+    "executives": [
+      {
+        "name": "STADLER ROBERT",
+        "title": "CHAIR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "PAUL TONY",
+        "title": "VICE CHAIR (THRU 12/20)",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "STEWART GEORGE",
+        "title": "TREASURER",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "NIELSEN ROB",
+        "title": "SECRETARY",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "BOERGER TRICIA S",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "BOLGER TOM",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "CRAMER SHANE",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "GOLDS ANGIE",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "GRIGGINS DAVIS SHARON",
+        "title": "DIRECTOR (FROM 10/20)",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "LANG-FURR OREN",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "SANTA LUCIA JOHN",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "WELLOCK KIMBRA",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "EVANS PATRICK",
+        "title": "PRESIDENT & CEO",
+        "compensation": 326158.0,
+        "other_compensation": 17262.0,
+        "total_compensation": 343420.0
+      },
+      {
+        "name": "EISENHAUER PAUL",
+        "title": "EXECUTIVE VP & CFO",
+        "compensation": 297917.0,
+        "other_compensation": 16415.0,
+        "total_compensation": 314332.0
+      },
+      {
+        "name": "EGNER KATRINA",
+        "title": "VP & CHIEF PROGRAM OFFICER",
+        "compensation": 195994.0,
+        "other_compensation": 19588.0,
+        "total_compensation": 215582.0
+      },
+      {
+        "name": "BARTELS MARY",
+        "title": "CHIEF MEDICAL OFFICER",
+        "compensation": 358672.0,
+        "other_compensation": 18237.0,
+        "total_compensation": 376909.0
+      },
+      {
+        "name": "CRANDALL DOUG",
+        "title": "CHIEF QC OFFICER",
+        "compensation": 213824.0,
+        "other_compensation": 13892.0,
+        "total_compensation": 227716.0
+      },
+      {
+        "name": "NELSON JOSHUA",
+        "title": "CHIEF TECHNOLOGY OFFICER",
+        "compensation": 188516.0,
+        "other_compensation": 13132.0,
+        "total_compensation": 201648.0
+      },
+      {
+        "name": "JONES CHARLOTTE",
+        "title": "CHIEF PEOPLE, DIVERSITY & INCLUSION",
+        "compensation": 164712.0,
+        "other_compensation": 12418.0,
+        "total_compensation": 177130.0
+      },
+      {
+        "name": "BEAN SUSAN",
+        "title": "CHIEF DEVELOPMENT OFFICER",
+        "compensation": 163878.0,
+        "other_compensation": 12393.0,
+        "total_compensation": 176271.0
+      },
+      {
+        "name": "WINSTON SUSAN",
+        "title": "CHIEF QUALITY & CLINICAL EXCELLENCE OFFICER",
+        "compensation": 161028.0,
+        "other_compensation": 12308.0,
+        "total_compensation": 173336.0
+      },
+      {
+        "name": "DELISI III JOE",
+        "title": "VP & COO",
+        "compensation": 151608.0,
+        "other_compensation": 12025.0,
+        "total_compensation": 163633.0
+      },
+      {
+        "name": "ZARKOWSKI PAUL A",
+        "title": "PSYCHIATRIST",
+        "compensation": 285259.0,
+        "other_compensation": 22244.0,
+        "total_compensation": 307503.0
+      },
+      {
+        "name": "GUSTAFSON BELINDA J",
+        "title": "PSYCHIATRIST",
+        "compensation": 284355.0,
+        "other_compensation": 22239.0,
+        "total_compensation": 306594.0
+      },
+      {
+        "name": "PASCOE PHAEDRA ELIZABETH",
+        "title": "PSYCHIATRIST",
+        "compensation": 289011.0,
+        "other_compensation": 16134.0,
+        "total_compensation": 305145.0
+      },
+      {
+        "name": "BISWAS SHALUK",
+        "title": "PRIMARY CARE DOCTOR",
+        "compensation": 234158.0,
+        "other_compensation": 7025.0,
+        "total_compensation": 241183.0
+      },
+      {
+        "name": "KAMPF MARIANNE J",
+        "title": "NURSE PRACTITIONER",
+        "compensation": 175870.0,
+        "other_compensation": 18981.0,
+        "total_compensation": 194851.0
+      }
+    ],
+    "financials": {
+      "total_revenue": 79499296.0,
+      "total_expenses": 82956762.0,
+      "program_service_expenses": 66832039.0,
+      "fundraising_expenses": 566169.0,
+      "total_assets": 103754791.0,
+      "total_liabilities": 37986864.0,
+      "program_efficiency": 0.8056249712350152
+    }
+  },
+  {
+    "filename": "unknown_3_filing.xml",
+    "tax_year": "2021",
+    "schema_version": "2021v4.2",
+    "executives": [
+      {
+        "name": "STADLER ROBERT",
+        "title": "CHAIR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "STEWART GEORGE",
+        "title": "TREASURER",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "NIELSEN ROB",
+        "title": "SECRETARY",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "BOLGER TOM",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "CRAMER SHANE",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "GOLDS ANGIE",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "LANG-FURR OREN",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "SANTA LUCIA JOHN",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "WELLOCK KIMBRA",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "CHRASTKA DIPTI",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "DOWDY RODGER",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "LEBEGUE MD MPH BRECK",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "MCHUGH CHRISTINE",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "PASATIEMPO EDDIE",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "RAFEH RAMI",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "TAYLOR MEG",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "GRIGGINS DAVIS SHARON",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "BOERGER TRICIA S",
+        "title": "DIRECTOR (THROUGH 12/21)",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "EVANS PATRICK",
+        "title": "PRESIDENT & CEO",
+        "compensation": 323621.0,
+        "other_compensation": 17900.0,
+        "total_compensation": 341521.0
+      },
+      {
+        "name": "EISENHAUER PAUL",
+        "title": "EXECUTIVE VP & CFO",
+        "compensation": 313829.0,
+        "other_compensation": 17900.0,
+        "total_compensation": 331729.0
+      },
+      {
+        "name": "EGNER KATRINA",
+        "title": "VP & CHIEF PROGRAM OFFICER",
+        "compensation": 210144.0,
+        "other_compensation": 21504.0,
+        "total_compensation": 231648.0
+      },
+      {
+        "name": "BARTELS MARY",
+        "title": "CHIEF MEDICAL OFFICER",
+        "compensation": 387220.0,
+        "other_compensation": 16900.0,
+        "total_compensation": 404120.0
+      },
+      {
+        "name": "NELSON JOSHUA",
+        "title": "CHIEF TECHNOLOGY OFFICER",
+        "compensation": 262069.0,
+        "other_compensation": 14123.0,
+        "total_compensation": 276192.0
+      },
+      {
+        "name": "CRANDALL DOUG",
+        "title": "CHIEF QC OFFICER",
+        "compensation": 218011.0,
+        "other_compensation": 14740.0,
+        "total_compensation": 232751.0
+      },
+      {
+        "name": "WINSTON SUSAN",
+        "title": "CHIEF QUALITY & CLINICAL E",
+        "compensation": 167597.0,
+        "other_compensation": 14228.0,
+        "total_compensation": 181825.0
+      },
+      {
+        "name": "BEAN SUSAN",
+        "title": "CHIEF DEVELOPMENT OFFICER",
+        "compensation": 167764.0,
+        "other_compensation": 13233.0,
+        "total_compensation": 180997.0
+      },
+      {
+        "name": "JONES CHARLOTTE",
+        "title": "CHIEF PEOPLE, DIVERSITY &",
+        "compensation": 168194.0,
+        "other_compensation": 12246.0,
+        "total_compensation": 180440.0
+      },
+      {
+        "name": "DELISI III JOE",
+        "title": "VP & COO",
+        "compensation": 164464.0,
+        "other_compensation": 13134.0,
+        "total_compensation": 177598.0
+      },
+      {
+        "name": "ZARKOWSKI PAUL A",
+        "title": "PSYCHIATRIST",
+        "compensation": 296166.0,
+        "other_compensation": 23900.0,
+        "total_compensation": 320066.0
+      },
+      {
+        "name": "GUSTAFSON BELINDA J",
+        "title": "PSYCHIATRIST",
+        "compensation": 291109.0,
+        "other_compensation": 23900.0,
+        "total_compensation": 315009.0
+      },
+      {
+        "name": "OLSON JOHN C",
+        "title": "MEDICAL DIRECTOR",
+        "compensation": 299953.0,
+        "other_compensation": 8700.0,
+        "total_compensation": 308653.0
+      },
+      {
+        "name": "BISWAS SHALUK",
+        "title": "PRIMARY CARE DOCTOR",
+        "compensation": 242217.0,
+        "other_compensation": 7267.0,
+        "total_compensation": 249484.0
+      },
+      {
+        "name": "PASCOE PHAEDRA ELIZABETH",
+        "title": "PSYCHIATRIST",
+        "compensation": 196662.0,
+        "other_compensation": 17042.0,
+        "total_compensation": 213704.0
+      }
+    ],
+    "financials": {
+      "total_revenue": 76293584.0,
+      "total_expenses": 75896793.0,
+      "program_service_expenses": 61058755.0,
+      "fundraising_expenses": 603581.0,
+      "total_assets": 90228461.0,
+      "total_liabilities": 24889571.0,
+      "program_efficiency": 0.8044971676207715
+    }
+  },
+  {
+    "filename": "unknown_2_filing.xml",
+    "tax_year": "2022",
+    "schema_version": "2022v5.0",
+    "executives": [
+      {
+        "name": "EVANS PATRICK",
+        "title": "PRESIDENT & CEO (THRU 12/22)",
+        "compensation": 493810.0,
+        "other_compensation": 18073.0,
+        "total_compensation": 511883.0
+      },
+      {
+        "name": "MICHEL FREDERICK H",
+        "title": "CHIEF MEDICAL OFFICER",
+        "compensation": 345655.0,
+        "other_compensation": 14735.0,
+        "total_compensation": 360390.0
+      },
+      {
+        "name": "GUSTAFSON BELINDA J",
+        "title": "PSYCHIATRIST",
+        "compensation": 315779.0,
+        "other_compensation": 24350.0,
+        "total_compensation": 340129.0
+      },
+      {
+        "name": "ZARKOWSKI PAUL A",
+        "title": "PSYCHIATRIST",
+        "compensation": 304919.0,
+        "other_compensation": 24348.0,
+        "total_compensation": 329267.0
+      },
+      {
+        "name": "OLSON JOHN C",
+        "title": "MEDICAL DIRECTOR",
+        "compensation": 313605.0,
+        "other_compensation": 9150.0,
+        "total_compensation": 322755.0
+      },
+      {
+        "name": "PASCOE PHAEDRA ELIZABETH",
+        "title": "PSYCHIATRIST",
+        "compensation": 260851.0,
+        "other_compensation": 20995.0,
+        "total_compensation": 281846.0
+      },
+      {
+        "name": "BEAN SUSAN",
+        "title": "CHIEF DEV OFFICER (THRU 11/22)",
+        "compensation": 254529.0,
+        "other_compensation": 15282.0,
+        "total_compensation": 269811.0
+      },
+      {
+        "name": "EGNER KATRINA",
+        "title": "INTERIM PRESIDENT AND CEO",
+        "compensation": 223913.0,
+        "other_compensation": 21917.0,
+        "total_compensation": 245830.0
+      },
+      {
+        "name": "CRANDALL DOUG",
+        "title": "CHIEF QC OFFICER",
+        "compensation": 229690.0,
+        "other_compensation": 15091.0,
+        "total_compensation": 244781.0
+      },
+      {
+        "name": "MCLEAN STEPHEN",
+        "title": "CHIEF MARKETING & PR (THRU 11/22)",
+        "compensation": 220388.0,
+        "other_compensation": 20797.0,
+        "total_compensation": 241185.0
+      },
+      {
+        "name": "DELISI III JOE",
+        "title": "VP & COO",
+        "compensation": 194130.0,
+        "other_compensation": 14024.0,
+        "total_compensation": 208154.0
+      },
+      {
+        "name": "SHERMAN LEA PAULINE",
+        "title": "ARNP",
+        "compensation": 186689.0,
+        "other_compensation": 13801.0,
+        "total_compensation": 200490.0
+      },
+      {
+        "name": "BARTELS MARY",
+        "title": "CHIEF MEDICAL OFFICER (THRU 5/22)",
+        "compensation": 182192.0,
+        "other_compensation": 9235.0,
+        "total_compensation": 191427.0
+      },
+      {
+        "name": "JONES CHARLOTTE",
+        "title": "CHIEF PEOPLE & DI OFFICER",
+        "compensation": 172156.0,
+        "other_compensation": 12365.0,
+        "total_compensation": 184521.0
+      },
+      {
+        "name": "SUSAN WINSTON",
+        "title": "CHIEF QUALITY & CLINICAL (THRU 6/22)",
+        "compensation": 169623.0,
+        "other_compensation": 14289.0,
+        "total_compensation": 183912.0
+      },
+      {
+        "name": "DE LUCA DUANE M",
+        "title": "VP & CFO",
+        "compensation": 167022.0,
+        "other_compensation": 5011.0,
+        "total_compensation": 172033.0
+      },
+      {
+        "name": "EISENHAUER PAUL",
+        "title": "EXECUTIVE VP & CFO (THRU 4/22)",
+        "compensation": 164114.0,
+        "other_compensation": 7415.0,
+        "total_compensation": 171529.0
+      },
+      {
+        "name": "STADLER ROBERT",
+        "title": "CHAIR (THRU 10/22)",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "BOLGER TOM",
+        "title": "VICE CHAIR (THRU 10/22), CHAIR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "PASATIEMPO EDDIE",
+        "title": "VICE CHAIR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "TAYLOR MEG",
+        "title": "TREASURER",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "STEWART GEORGE",
+        "title": "TREASURER (THRU 9/22)",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "NIELSEN ROB",
+        "title": "SECRETARY (THRU 9/22)",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "OERTLI GARY",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "WILCOX JEFF",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "GRIGGINS DAVIS SHARON",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "RAFEH RAMI",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "MCHUGH CHRISTINE",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "DOWDY RODGER",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "CHRASTKA DIPTI",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "WELLOCK KIMBRA",
+        "title": "DIRECTOR (THRU 8/22)",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "LEBEGUE MD MPH BRECK",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "LANG-FURR OREN",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "GOLDS ANGIE",
+        "title": "DIRECTOR (THRU 8/22)",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "CRAMER SHANE",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "SANTA LUCIA JOHN",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      }
+    ],
+    "financials": {
+      "total_revenue": 71697345.0,
+      "total_expenses": 76536526.0,
+      "program_service_expenses": 64449890.0,
+      "fundraising_expenses": 594046.0,
+      "total_assets": 92802943.0,
+      "total_liabilities": 33406255.0,
+      "program_efficiency": 0.8420801592170515
+    }
+  },
+  {
+    "filename": "unknown_1_filing.xml",
+    "tax_year": "2023",
+    "schema_version": "2023v5.1",
+    "executives": [
+      {
+        "name": "PASCOE PHAEDRA ELIZABETH",
+        "title": "CHIEF MEDICAL OFFICER",
+        "compensation": 346081.0,
+        "other_compensation": 24910.0,
+        "total_compensation": 370991.0
+      },
+      {
+        "name": "ZARKOWSKI PAUL A",
+        "title": "SENIOR PSYCHIATRIC SUPERVISOR",
+        "compensation": 317995.0,
+        "other_compensation": 24740.0,
+        "total_compensation": 342735.0
+      },
+      {
+        "name": "EGNER KATRINA L",
+        "title": "PRESIDENT & CEO",
+        "compensation": 308573.0,
+        "other_compensation": 24457.0,
+        "total_compensation": 333030.0
+      },
+      {
+        "name": "GUSTAFSON BELINDA J",
+        "title": "SENIOR PSYCHIATRIC SUPERVISOR",
+        "compensation": 300019.0,
+        "other_compensation": 23313.0,
+        "total_compensation": 323332.0
+      },
+      {
+        "name": "MICHEL FREDERICK H",
+        "title": "CHIEF MEDICAL OFFICER (THRU 1/23)",
+        "compensation": 252124.0,
+        "other_compensation": 10072.0,
+        "total_compensation": 262196.0
+      },
+      {
+        "name": "JONES CHARLOTTE",
+        "title": "CHIEF PEOPLE & DEJI OFFICER",
+        "compensation": 209474.0,
+        "other_compensation": 13484.0,
+        "total_compensation": 222958.0
+      },
+      {
+        "name": "DELISI JOE G",
+        "title": "EXECUTIVE VP & COO",
+        "compensation": 199776.0,
+        "other_compensation": 14193.0,
+        "total_compensation": 213969.0
+      },
+      {
+        "name": "DE LUCA DUANE M",
+        "title": "VP & CFO",
+        "compensation": 201935.0,
+        "other_compensation": 6058.0,
+        "total_compensation": 207993.0
+      },
+      {
+        "name": "KAMPF MARIANNE J",
+        "title": "ARNP",
+        "compensation": 186939.0,
+        "other_compensation": 18808.0,
+        "total_compensation": 205747.0
+      },
+      {
+        "name": "SHARMA ADITI",
+        "title": "CHILD & ADOLESCENT PSYCHIATRIST",
+        "compensation": 198621.0,
+        "other_compensation": 5959.0,
+        "total_compensation": 204580.0
+      },
+      {
+        "name": "KING ERINN J",
+        "title": "PHYSICIAN ASSISTANT",
+        "compensation": 181748.0,
+        "other_compensation": 20652.0,
+        "total_compensation": 202400.0
+      },
+      {
+        "name": "BOLGER TOM",
+        "title": "BOARD CHAIR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "DOWDY ROGER",
+        "title": "BOARD VICE CHAIR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "PASATIEMPO EDDIE",
+        "title": "VICE CHAIR (THRU 9/23)",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "WILCOX JEFF",
+        "title": "BOARD TREASURER",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "TAYLOR MEG",
+        "title": "TREASURER (THRU 9/23)",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "CHRASTKA DIPTI",
+        "title": "DIRECTOR (THRU 9/23)",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "LANG-FURR OREN",
+        "title": "DIRECTOR (THRU 9/23)",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "BELIARD ANNEMARIE",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "CRAMER SHANE",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "KONG TONY",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "LAM LOAN",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "MCHUGH CHRISTINE",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "MEZARAUPS LIGA",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "MULLER STEPHEN",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "OERTLI GARY",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "RAFEH RAMI",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "SANTA LUCIA JOHN",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      },
+      {
+        "name": "GRIGGINS SHARON",
+        "title": "DIRECTOR",
+        "compensation": 0.0,
+        "other_compensation": 0.0,
+        "total_compensation": 0.0
+      }
+    ],
+    "financials": {
+      "total_revenue": 74948833.0,
+      "total_expenses": 74719282.0,
+      "program_service_expenses": 62127441.0,
+      "fundraising_expenses": 197817.0,
+      "total_assets": 94216378.0,
+      "total_liabilities": 33995143.0,
+      "program_efficiency": 0.8314780246416179
+    }
+  }
+]
